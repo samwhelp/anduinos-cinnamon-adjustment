@@ -28,6 +28,12 @@
 | [Quick Adjustment](https://github.com/samwhelp/note-about-anduinos-cinnamon/tree/gh-pages/_demo/scripts/cinnamon-adjustment) |
 
 
+| Style Management |
+| ---------------- |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## Link
@@ -40,3 +46,10 @@
 | [Debian Cinnamon Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
 | [Garuda Cinnamon Adjustment](https://samwhelp.github.io/garuda-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/garuda-cinnamon-adjustment) |
 | [Fedora Cinnamon Adjustment](https://samwhelp.github.io/fedora-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-cinnamon-adjustment) |
+
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
